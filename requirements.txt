@@ -1,0 +1,5 @@
+# Base validation environment dependencies
+# Standard libraries like json and sys are natively handled.
+# Extended data utilities for downstream modelling:
+pandas>=2.2.0
+numpy>=1.26.0
